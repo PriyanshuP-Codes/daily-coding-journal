@@ -7,3 +7,6 @@
 ## 2025-11-20 03:00
 - Refactored CSS for mobile responsiveness
 
+## 2025-11-20 03:00
+- Refactored API endpoints
+
