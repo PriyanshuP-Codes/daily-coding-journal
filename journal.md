@@ -37,3 +37,6 @@
 ## 2025-11-21 12:50
 - Added unit tests for login
 
+## 2025-11-21 12:50
+- Optimized database queries
+
