@@ -61,3 +61,6 @@
 ## 2025-11-22 12:42
 - Refactored API endpoints
 
+## 2025-11-22 12:42
+- Improved error handling logic
+
