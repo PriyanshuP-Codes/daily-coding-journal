@@ -169,3 +169,6 @@
 ## 2025-11-27 12:52
 - Fixed bug in authentication module
 
+## 2025-11-27 12:52
+- Refactored API endpoints
+
