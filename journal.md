@@ -196,3 +196,6 @@
 ## 2025-11-28 12:51
 - Updated dependency versions
 
+## 2025-11-28 12:51
+- Updated README documentation
+
