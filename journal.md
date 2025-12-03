@@ -349,3 +349,6 @@
 ## 2025-12-03 12:55
 - Fixed bug in authentication module
 
+## 2025-12-03 12:55
+- Refactored CSS for mobile responsiveness
+
