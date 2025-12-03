@@ -310,3 +310,6 @@
 ## 2025-12-03 01:58
 - Updated dependency versions
 
+## 2025-12-03 01:58
+- Refactored API endpoints
+
