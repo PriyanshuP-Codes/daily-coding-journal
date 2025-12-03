@@ -373,3 +373,6 @@
 ## 2025-12-03 18:38
 - Updated README documentation
 
+## 2025-12-03 18:38
+- Refactored CSS for mobile responsiveness
+
