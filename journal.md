@@ -382,3 +382,6 @@
 ## 2025-12-04 18:39
 - Fixed bug in authentication module
 
+## 2025-12-04 18:39
+- Added unit tests for login
+
