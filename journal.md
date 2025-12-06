@@ -406,3 +406,6 @@
 ## 2025-12-06 01:53
 - Refactored CSS for mobile responsiveness
 
+## 2025-12-06 01:53
+- Added unit tests for login
+
