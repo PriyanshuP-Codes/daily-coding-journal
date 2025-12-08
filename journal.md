@@ -508,3 +508,6 @@
 ## 2025-12-08 12:53
 - Corrected typos in variable names
 
+## 2025-12-08 12:53
+- Improved error handling logic
+
