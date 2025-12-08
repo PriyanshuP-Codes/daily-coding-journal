@@ -490,3 +490,6 @@
 ## 2025-12-08 12:53
 - Added unit tests for login
 
+## 2025-12-08 12:53
+- Improved error handling logic
+
