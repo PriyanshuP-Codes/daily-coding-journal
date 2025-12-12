@@ -568,3 +568,6 @@
 ## 2025-12-12 02:02
 - Fixed bug in authentication module
 
+## 2025-12-12 18:38
+- Refactored API endpoints
+
