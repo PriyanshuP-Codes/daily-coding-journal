@@ -586,3 +586,6 @@
 ## 2025-12-12 18:38
 - Fixed bug in authentication module
 
+## 2025-12-12 18:38
+- Improved error handling logic
+
