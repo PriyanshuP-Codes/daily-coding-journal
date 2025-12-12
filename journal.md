@@ -571,3 +571,6 @@
 ## 2025-12-12 18:38
 - Refactored API endpoints
 
+## 2025-12-12 18:38
+- Improved error handling logic
+
