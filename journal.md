@@ -643,3 +643,6 @@
 ## 2025-12-14 12:48
 - Improved error handling logic
 
+## 2025-12-14 12:48
+- Refactored API endpoints
+
