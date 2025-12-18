@@ -748,3 +748,6 @@
 ## 2025-12-18 12:54
 - Cleaned up unused imports
 
+## 2025-12-18 12:54
+- Refactored API endpoints
+
