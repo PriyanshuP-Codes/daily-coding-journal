@@ -736,3 +736,6 @@
 ## 2025-12-17 18:39
 - Updated dependency versions
 
+## 2025-12-18 12:54
+- Refactored API endpoints
+
