@@ -829,3 +829,6 @@
 ## 2025-12-20 12:48
 - Merged development branch
 
+## 2025-12-20 12:48
+- Improved error handling logic
+
