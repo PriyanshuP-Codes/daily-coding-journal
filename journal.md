@@ -805,3 +805,6 @@
 ## 2025-12-20 12:48
 - Refactored API endpoints
 
+## 2025-12-20 12:48
+- Updated README documentation
+
