@@ -847,3 +847,6 @@
 ## 2025-12-22 02:07
 - Updated dependency versions
 
+## 2025-12-22 02:07
+- Improved error handling logic
+
