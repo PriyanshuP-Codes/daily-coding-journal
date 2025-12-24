@@ -916,3 +916,6 @@
 ## 2025-12-24 18:36
 - Cleaned up unused imports
 
+## 2025-12-24 18:36
+- Improved error handling logic
+
