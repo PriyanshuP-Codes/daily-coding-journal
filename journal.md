@@ -964,3 +964,6 @@
 ## 2025-12-25 06:40
 - Refactored API endpoints
 
+## 2025-12-26 12:52
+- Updated README documentation
+
