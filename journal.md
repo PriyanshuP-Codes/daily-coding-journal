@@ -991,3 +991,6 @@
 ## 2025-12-29 18:37
 - Merged development branch
 
+## 2025-12-29 18:37
+- Refactored API endpoints
+
