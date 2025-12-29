@@ -982,3 +982,6 @@
 ## 2025-12-27 18:34
 - Updated dependency versions
 
+## 2025-12-29 18:37
+- Refactored CSS for mobile responsiveness
+
