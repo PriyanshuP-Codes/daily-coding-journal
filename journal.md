@@ -1078,3 +1078,6 @@
 ## 2026-01-03 01:59
 - Added unit tests for login
 
+## 2026-01-03 01:59
+- Updated README documentation
+
