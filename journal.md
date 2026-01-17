@@ -1351,3 +1351,6 @@
 ## 2026-01-17 18:35
 - Added unit tests for login
 
+## 2026-01-17 18:35
+- Updated README documentation
+
