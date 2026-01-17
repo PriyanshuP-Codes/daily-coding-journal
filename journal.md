@@ -1336,3 +1336,6 @@
 ## 2026-01-17 18:35
 - Fixed bug in authentication module
 
+## 2026-01-17 18:35
+- Added unit tests for login
+
