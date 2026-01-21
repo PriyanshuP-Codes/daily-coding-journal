@@ -1429,3 +1429,6 @@
 ## 2026-01-21 13:01
 - Updated dependency versions
 
+## 2026-01-21 13:01
+- Added unit tests for login
+
