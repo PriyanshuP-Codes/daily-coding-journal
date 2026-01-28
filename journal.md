@@ -1510,3 +1510,6 @@
 ## 2026-01-27 18:47
 - Updated README documentation
 
+## 2026-01-28 02:09
+- Improved error handling logic
+
