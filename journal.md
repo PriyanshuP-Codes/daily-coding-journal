@@ -1864,3 +1864,6 @@
 ## 2026-02-10 19:19
 - Updated dependency versions
 
+## 2026-02-10 19:19
+- Refactored API endpoints
+
