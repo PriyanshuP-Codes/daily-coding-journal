@@ -1975,3 +1975,6 @@
 ## 2026-02-14 13:00
 - Fixed bug in authentication module
 
+## 2026-02-14 13:00
+- Refactored API endpoints
+
