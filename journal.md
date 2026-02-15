@@ -2023,3 +2023,6 @@
 ## 2026-02-15 18:44
 - Refactored API endpoints
 
+## 2026-02-15 18:44
+- Updated README documentation
+
