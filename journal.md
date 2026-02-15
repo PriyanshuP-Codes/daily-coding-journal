@@ -2020,3 +2020,6 @@
 ## 2026-02-15 18:44
 - Added unit tests for login
 
+## 2026-02-15 18:44
+- Refactored API endpoints
+
