@@ -2251,3 +2251,6 @@
 ## 2026-02-26 19:02
 - Fixed bug in authentication module
 
+## 2026-02-26 19:02
+- Refactored API endpoints
+
