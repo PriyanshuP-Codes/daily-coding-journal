@@ -2395,3 +2395,6 @@
 ## 2026-03-06 02:32
 - Refactored API endpoints
 
+## 2026-03-06 02:32
+- Updated README documentation
+
