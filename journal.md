@@ -2401,3 +2401,6 @@
 ## 2026-03-08 12:59
 - Updated dependency versions
 
+## 2026-03-08 12:59
+- Improved error handling logic
+
