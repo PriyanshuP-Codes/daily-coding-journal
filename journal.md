@@ -2461,3 +2461,6 @@
 ## 2026-03-10 06:58
 - Added unit tests for login
 
+## 2026-03-10 13:13
+- Refactored API endpoints
+
