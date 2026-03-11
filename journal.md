@@ -2572,3 +2572,6 @@
 ## 2026-03-11 19:00
 - Improved error handling logic
 
+## 2026-03-11 19:00
+- Refactored API endpoints
+
