@@ -2653,3 +2653,6 @@
 ## 2026-03-16 13:25
 - Improved error handling logic
 
+## 2026-03-16 13:25
+- Updated README documentation
+
