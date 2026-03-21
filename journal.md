@@ -2713,3 +2713,6 @@
 ## 2026-03-21 02:28
 - Added unit tests for login
 
+## 2026-03-21 02:28
+- Updated README documentation
+
