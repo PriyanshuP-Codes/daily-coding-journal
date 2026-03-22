@@ -2794,3 +2794,6 @@
 ## 2026-03-22 18:45
 - Updated dependency versions
 
+## 2026-03-22 18:45
+- Updated README documentation
+
