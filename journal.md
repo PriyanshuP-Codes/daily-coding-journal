@@ -3088,3 +3088,6 @@
 ## 2026-04-03 02:48
 - Added unit tests for login
 
+## 2026-04-03 13:14
+- Refactored API endpoints
+
