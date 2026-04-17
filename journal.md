@@ -3343,3 +3343,6 @@
 ## 2026-04-17 13:42
 - Updated README documentation
 
+## 2026-04-17 13:42
+- Improved error handling logic
+
