@@ -3328,3 +3328,6 @@
 ## 2026-04-17 03:20
 - Updated dependency versions
 
+## 2026-04-17 13:42
+- Refactored API endpoints
+
