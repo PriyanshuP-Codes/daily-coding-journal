@@ -3487,3 +3487,6 @@
 ## 2026-04-21 13:55
 - Added unit tests for login
 
+## 2026-04-21 13:55
+- Improved error handling logic
+
